@@ -1,0 +1,30 @@
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\DeathBot.exe.config
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\DeathBot.exe
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\DeathBot.pdb
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Discord.Net.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\RestSharp.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\bin\Debug\RestSharp.xml
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\obj\Debug\DeathBot.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\obj\Debug\DeathBot.exe
+C:\Users\Kai\Documents\Visual Studio 2015\Projects\DiscordBot\DeathBot\obj\Debug\DeathBot.pdb
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\DeathBot.exe.config
+C:\Users\Regina Ausloos\Desktop\DeathBot\obj\Debug\DeathBot.exe
+C:\Users\Regina Ausloos\Desktop\DeathBot\obj\Debug\DeathBot.pdb
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\DeathBot.exe
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\DeathBot.pdb
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Regina Ausloos\Desktop\DeathBot\bin\Debug\RestSharp.xml
+C:\Users\Regina Ausloos\Desktop\DeathBot\obj\Debug\DeathBot.csprojResolveAssemblyReference.cache
